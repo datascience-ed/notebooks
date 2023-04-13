@@ -1,4 +1,4 @@
-# Notebooks Repo
+# Coding Notebooks Repository
 
 To upload your own coding notebook to this repo:
 
